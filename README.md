@@ -12,6 +12,6 @@ Developed a microservices application with services for User Authentication, Tic
 
 **Payment Processing:** Stripe
 
-**Data Modeling:** Redis
+**Caching and Real-Time Data Storage:** Redis
 
 **Deployment:** Docker, Kubernetes
